@@ -1,12 +1,8 @@
 import React from "react";
-import Body from "./components/Body";
-import Footer from "./components/Footer";
 
 export const App = () => {
   return (
     <div className="App ">
-      <Body />
-      <Footer />
     </div>
   );
 };
