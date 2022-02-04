@@ -18,7 +18,7 @@ export const App = () => {
   // console.log('data', people)
   return (
     <div className="App">
-      <h1 className="Header pt-2">Star Wars Characters</h1>
+      <h1 className="Header pt-2 text-white">Star Wars Characters</h1>
       <Character data={people} />
       {/* pass props to component */}
     </div>
