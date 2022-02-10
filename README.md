@@ -1,5 +1,5 @@
 # Star Wars API
- - Star Wars API repository originaly made as job interview project.
+ - Star Wars API repository originaly made as a job interview project.
  - This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 
